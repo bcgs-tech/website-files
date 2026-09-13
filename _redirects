@@ -1,0 +1,9 @@
+# Cloudflare Pages redirects
+# Clean URLs: /programs works as well as /programs.html
+/programs      /programs.html   301
+/why-us        /why-us.html     301
+/contact       /contact.html    301
+/privacy       /privacy.html    301
+/terms         /terms.html      301
+/sitemap       /sitemap.html    301
+/thanks        /thanks.html     301
